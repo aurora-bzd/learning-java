@@ -6,11 +6,11 @@
 	
 		int idade;
 		idade = 5;
-
-    double altura = 1.52;
-
+		
+		double altura = 1.52;
+			
 		System.out.println(idade);
-    System.out.println(altura);
+		System.out.println(altura);
 
 	
 	}
